@@ -1,6 +1,6 @@
 # Hi, I'm Mudasir Ali 👋
 
-**Junior Android Developer** focused on building scalable, performant, and user-friendly mobile applications using modern Android toolsets and architectures. I specialize in native Android development with Kotlin and Jetpack Compose, bringing hands-on experience in building feature-rich applications from UI design to backend integration.
+**Android Developer** focused on building scalable, performant, and user-friendly mobile applications using modern Android toolsets and architectures. I specialize in native Android development with Kotlin and Jetpack Compose, bringing hands-on experience in building feature-rich applications from UI design to backend integration.
 
 ---
 
