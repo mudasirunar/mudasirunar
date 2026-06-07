@@ -25,12 +25,12 @@ Android Developer focused on building scalable mobile applications using modern 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudasirunar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Mudasir's GitHub Stats" height="160" />
-</p>
+<a href="https://github.com/mudasirunar">
+  <img src="https://github-readme-stats.vercel.app/api?username=mudasirunar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
 
 ---
 
 ### 🌐 Connect with Me
-* 💼 [LinkedIn](https://linkedin.com/in/mudasir-ali-421962161)
+* 💼 [LinkedIn](https://www.linkedin.com/in/mudasir-ali-442196261/)
 * 🌐 [Personal Website](https://mudasir.tech)
