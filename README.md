@@ -1,36 +1,63 @@
 # Hi, I'm Mudasir Ali 👋
 
-Android Developer focused on building scalable mobile applications using modern Android tools and architectures. I specialize in native mobile development and integrating intelligent on-device features.
+**Junior Android Developer** focused on building scalable, performant, and user-friendly mobile applications using modern Android toolsets and architectures. I specialize in native Android development with Kotlin and Jetpack Compose, bringing hands-on experience in building feature-rich applications from UI design to backend integration.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills & Tooling
 
 **Mobile Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android SDK" />
-  <img src="https://img.shields.io/badge/Room_Database-3DDC84?style=flat-square&logo=sqlite&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Material_Design-7300E6?style=flat-square&logo=material-design&logoColor=white" alt="Material Design" />
+  <img src="https://img.shields.io/badge/XML_Layouts-3178C6?style=flat-square&logo=xml&logoColor=white" alt="XML Layouts" />
 </p>
 
-**Backend & Cloud**
+**Architecture & Local Storage**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MVVM_Architecture-0052CC?style=flat-square&logo=google&logoColor=white" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Room_Database-3DDC84?style=flat-square&logo=sqlite&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines & Flow" />
+  <img src="https://img.shields.io/badge/Dagger_Hilt-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Dagger Hilt" />
+</p>
+
+**Backend, APIs & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_Basic-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
+</p>
+
+**Development Tools & Methodologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Performance_Optimization-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Performance Optimization" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education
 
-<a href="https://github.com/mudasirunar">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudasirunar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
+* **B.S. in Software Engineering**[cite: 1]  
+  *Sir Syed University of Engineering and Technology, Karachi* *(10-2022 – Present)*[cite: 1]
 
 ---
 
 ### 🌐 Connect with Me
-* 💼 [LinkedIn](https://www.linkedin.com/in/mudasir-ali-442196261/)
-* 🌐 [Personal Website](https://mudasir.tech)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mudasir-ali-442196261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mudasir.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Website-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:unarmudasir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
