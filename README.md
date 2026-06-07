@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android SDK" />
-  <img src="https://img.shields.io/badge/Material_Design-7300E6?style=flat-square&logo=material-design&logoColor=white" alt="Material Design" />
   <img src="https://img.shields.io/badge/XML_Layouts-3178C6?style=flat-square&logo=xml&logoColor=white" alt="XML Layouts" />
 </p>
 
@@ -28,7 +27,6 @@
   <img src="https://img.shields.io/badge/Java_Basic-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
 </p>
 
 **Development Tools & Methodologies**
@@ -42,8 +40,8 @@
 
 ### 🎓 Education
 
-* **B.S. in Software Engineering**[cite: 1]  
-  *Sir Syed University of Engineering and Technology, Karachi* *(10-2022 – Present)*[cite: 1]
+* **B.S. in Software Engineering**  
+  *Sir Syed University of Engineering and Technology, Karachi* (Oct 2022 – Present)
 
 ---
 
